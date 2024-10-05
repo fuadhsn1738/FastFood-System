@@ -1,0 +1,27 @@
+Mains:
+1. Cheeseburger - $4.99
+2. Grilled Chicken Sandwich - $5.99
+3. Veggie Burger - $4.49
+4. Chicken Tenders (4 pcs) - $6.99
+5. Beef Hotdog - $3.99
+
+Sides:
+1. French Fries - $2.49
+2. Onion Rings - $2.99
+3. Mozzarella Sticks (6 pcs) - $4.49
+4. Side Salad - $3.49
+5. Sweet Potato Fries - $2.99
+
+Drinks:
+1. Cola (small) - $1.49
+2. Iced Tea (medium) - $2.49
+3. Lemonade (large) - $2.99
+4. Bottled Water - $1.00
+5. Coffee - $1.99
+
+Desserts:
+1. Chocolate Chip Cookie - $1.49
+2. Ice Cream Cone - $1.99
+3. Brownie - $2.49
+4. Apple Pie - $2.99
+5. Milkshake (chocolate/vanilla) - $3.49
