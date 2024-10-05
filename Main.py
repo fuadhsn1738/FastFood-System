@@ -30,7 +30,9 @@ item_price = (
     2.75, 3.00
 )
 
-
+# Initialize the receipt and quantities lists
+receipt = []
+quantities = []
 
 os.system("cls")
 splash = open(r"E:\Coding\Python\Restaurant\FastFood-System\Splash.txt", "r")
@@ -55,3 +57,18 @@ while True:
         print("Invalid input. Please enter a number between 0 and 19.")
     else:
         print(f"{menu_items[p]} - ${item_price[p]:.2f}")
+
+# Display the receipt
+os.system("cls")
+print("\nYour Receipt:")
+print("=====================================================")
+total_price = 0
+for item, qty in zip(receipt, quantities):
+    price = item_price[menu_items.index(item)]  # Get the price of the item
+    total = price * qty
+    total_price += total
+    print(f"{item} x {qty} - ${total:.2f}")
+
+print("=====================================================")
+print(f"Total Price: ${total_price:.2f}")
+print("Thank you for your order!")
