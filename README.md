@@ -1,1 +1,1 @@
-Got bored and created a restaurant system
+A simple project I created to delve into my past programming skills. It simulates the fast food menu system where the user can choose what item they want and how many they would wish to. They can choose as much as they'd like until the user hits the exit sequence, and the program creates a receipt for the items they chose and their quantity, followed by the total price.
